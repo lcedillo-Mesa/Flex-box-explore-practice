@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*  Delete this line 
+.body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+Delete this line   */
+
+
+
+/*  Delete this line 
+.header {
+  background-color: #2c3e50;
+  color: white;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+Delete this line   */
+
+
+
+/*  Delete this line 
+
+.nav {
+    background-color: #34495e;
+    padding: 12px 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 24px;
+}
+Delete this line   */
+
+/*  Delete this line 
+
+.a-style {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+}
+Delete this line   */
+
+/*  Delete this line 
+.main {
+  flex: 1;
+  display: flex;
+  gap: 24px;
+  padding: 32px 24px;
+  background-color: #ecf0f1;
+}
+Delete this line   */
+
+
+/*  Delete this line 
+.section {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 8px;
+  background-color: white;
+  padding: 24px;
+  border-radius: 6px;
+}
+Delete this line   */
+
+/*  Delete this line 
+.footer {
+  background-color: #2c3e50;
+  color: white;
+  padding: 16px 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+Delete this line   */
